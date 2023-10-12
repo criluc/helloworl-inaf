@@ -1,5 +1,5 @@
 Progetto Hello World INAF
 =========================
 
-Prova
+Questo è un progetto bellissimo.
 
